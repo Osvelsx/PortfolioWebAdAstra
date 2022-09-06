@@ -4,6 +4,10 @@
     gap: 2rem;
 }
 
+h2 {
+    padding-bottom: 2rem;
+}
+
 .experience_container > div {
     background: var(--color-bg-variant);
     padding: 2.4rem 5rem;
@@ -48,18 +52,24 @@
 
     .experience_container > div {
         width: 80%;
-        padding: 2rem;
+        padding: 1rem;
         margin: 0 auto;
         }
+
+    .experience_container {
+            gap: 5rem;
+        }
     
-    .experience_content {
-        padding: 1rem;
-    }
+    .experience_details {
+            display: flex;
+            gap: 5\1rem;
+            padding-left: 3.5rem;
+        }
 }
   /*================ MEDIA QUERIES(SMALL DEVICES)=================*/
   @media screen and (max-width: 600px) {
     .experience_container {
-        gap: 1rem;
+        gap: 3rem;
        }
 
     .experience_container > div {

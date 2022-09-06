@@ -5,7 +5,7 @@ import {About} from './components/about/About'
 import {Experience} from './components/experience/Experience'
 import {Services} from './components/services/Services'
 import {Portfolio} from './components/portfolio/Portfolio'
-import {Testimonials} from './components/testimonials/Testimonials'
+//import {Testimonials} from './components/testimonials/Testimonials'
 import {Contact} from './components/contact/Contact'
 import {Footer} from './components/footer/Footer'
 
@@ -24,6 +24,10 @@ export const App = () => {
     </>
   )
 }
+
+/*var newWnd = window.open(); Esto es para cerrar llos _blank creados
+console.log("🚀 ~ file: App.jsx ~ line 29 ~ newWnd", newWnd)
+newWnd.opener = null;*/
 
 /*
 ============== Funcion de fechas y dias ==============

@@ -1,5 +1,5 @@
 section {
-    padding-top: 2rem;
+    padding-top: 1rem;
 }
 
 .about_container {
@@ -65,11 +65,10 @@ section {
 .about_card small {
     font-size: 0.7rem;
     color: var(--color-light);
-
 }
 
 .about_content p {
-    margin: 2rem 0 2rem;
+    margin: 1rem 0 1rem;
 }
 
 /*================ MEDIA QUERIES (MEDIUM DEVICES) ================*/
@@ -77,14 +76,26 @@ section {
     .about_container{
         grid-template-columns: 1fr;
         gap: 0;
+        padding: 0rem;
        }
-       .about_me{
-        width: 50%;
-        margin: 2rem auto 4rem;
+
+    .about_me{
+        width: 0;
+        margin: 0rem auto 0rem;
        }
-       .about_content p {
-        margin: 1rem 0 1.5rem;
-        }
+
+    .about_content p {
+        margin: 2rem 0 2rem;
+        text-align: justify;
+       }
+
+    .about_cards {
+        display: grid;
+        justify-content: center;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: 0.5fr;
+        gap: 1em;
+    }
   }
   /*================ MEDIA QUERIES(SMALL DEVICES)=================*/
   @media screen and (max-width: 600px) {

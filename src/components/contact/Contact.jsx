@@ -27,19 +27,19 @@ export const Contact = () => {
             <MdOutlineEmail className='contact_option-icon'/>
             <h4>Email</h4>
             <h5>osvel117@gmail.com</h5>
-            <a href="mailto:osvel117@gmail.com" target="_blank">Send a message!</a>
+            <a href="mailto:osvel117@gmail.com" target="noopener">Send a message!</a>
           </article>
           <article className="contact_option">
             <RiMessengerLine className='contact_option-icon'/>
             <h4>Messenger</h4>
             <h5>Ad Astra</h5>
-            <a href="https://facebook.com" target="_blank">Send a message!</a>
+            <a href="https://facebook.com" target="noopener">Send a message!</a>
           </article>
           <article className="contact_option"> 
             <BsWhatsapp className='contact_option-icon'/>
             <h4>WhatsApp</h4>
-            <h5>+123456789</h5>
-            <a href="https://api.whatsapp.com/send?phone" target="_blank">Send a message!</a>
+            <h5>332-495-7679</h5>
+            <a href="https://wa.me/523324957679?text=I'm%20Interested%20in%20your%20Profile" target="noopener">Send a message!</a>
           </article>
         </div>
         {/* ========= FIN DE CONTACT CARDS ========= */}

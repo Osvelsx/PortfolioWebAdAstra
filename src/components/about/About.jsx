@@ -14,7 +14,7 @@ export const About = () => {
       <div className="container about_container">
         <div className="about_me">
           <div className="about_me-img">
-            <img src={ME} alt="About Image" />
+            <img src={ME} alt="About" />
           </div>
         </div>
 
@@ -27,15 +27,15 @@ export const About = () => {
             </article>
 
             <article className="about_card">
-              <h5>Clients</h5>
+              <h5>Work</h5>
               <div className='about_icon'><FiUsers/></div>
-              <small>From Mexico & Colombia</small>
+              <small>Digital Trusted Advisor</small>
             </article>
 
             <article className="about_card">
               <h5>Projects</h5>
               <div className='about_icon'><BsTrophy/></div>
-              <small>+7 Completed</small>
+              <small>+3 Completed</small>
             </article>
           </div>
 

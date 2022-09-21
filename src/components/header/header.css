@@ -61,22 +61,29 @@ header {
  
 }
 /*================ MEDIA QUERIES(SMALL DEVICES)=================*/
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
     header {
-     height: 77vh;
-   }
-   .header_container {
-    height: 93vh;
+     height: 100vh;
+     width: 65vh;
+     margin-bottom: 1rem;
    }
     .header_socials, .scroll_down {
      display: inline-flex;
      flex-direction: row;
      transform: none;
-     bottom: 10rem;
+     bottom: 2rem;
      gap: 0.6rem;
   }
 
   .scroll_down {
       padding-right: 2rem;
   }
+
+  header {
+    padding-top: 2rem;
+  }
+  /* ==================== ME ==================== */
+    .me {
+        margin-top: 3rem;
+    }
 }

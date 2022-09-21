@@ -66,8 +66,31 @@
 }
   /*================ MEDIA QUERIES(SMALL DEVICES)=================*/
   @media screen and (max-width: 600px) {
+    #services {
+        height: 135vh !important;
+        width: 65vh;
+        padding-top: 0.5rem;
+    }
+    .services_container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 2rem;
+        padding-top: 0rem;
+    }
     .services_container {
         grid-template-columns: 1fr;
         gap: 1.5rem;
     }
+    .service_head {
+        padding: 0.5rem;
     }
+    .service_list {
+        padding: 1rem;
+        padding-left: 3rem;
+    }
+    .service_list li {
+        display: flex;
+        gap: 1rem;
+        margin-bottom: 0.8rem;
+    }
+}

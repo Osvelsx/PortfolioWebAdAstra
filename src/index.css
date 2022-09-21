@@ -121,6 +121,7 @@ a:hover {
     }
 
     section > h2 {
-        margin-bottom: 2rem;
+        padding: 0rem !important;
+        margin: 0rem !important;
     }
 }

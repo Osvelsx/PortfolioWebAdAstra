@@ -11,21 +11,21 @@ const data = [
     image: tacbody,
     title: 'Tac of a Client',
     github: 'https://github.com/Osvelsx',
-    demo: ''
+    demo: 'https://www.youtube.com/watch?v=q1IZU95PF8U&t=257s'
   },
   {
     id: 2,
     image: jetdesign,
     title: 'Jet Engine',
     github: 'https://github.com/Osvelsx',
-    demo: ''
+    demo: 'https://www.youtube.com/watch?v=xu4YkFpX37I&t=51s'
   },
   {
     id: 3,
     image: rhand,
     title: 'Robotic Hand',
     github: 'https://github.com/Osvelsx',
-    demo: ''
+    demo: 'https://www.youtube.com/channel/UCdHArCqfandw-HQP8QaWmGA/featured'
   }
 ]
 
@@ -45,8 +45,8 @@ export const Portfolio = () => {
                 </div>
                 <h3>{title}</h3>
                 <div className="portfolio_item-cta">
-                  <a href={github} className='btn' target='_blank'>Github</a>
-                  <a href={demo} className='btn' target='_blank'>Live Demo</a>
+                  <a href={github} className='btn' target="noopener">Github</a>
+                  <a href={demo} className='btn' target="noopener">Live Demo</a>
                 </div>
               </article>
               )

@@ -1,6 +1,5 @@
 .portfolio_container {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    padding-bottom: 2.5rem;
     gap: 2.5rem;
 }
 
@@ -10,6 +9,7 @@
     border-radius: 2rem;
     border: 1px solid transparent;
     transition:var(--transition);
+    margin-bottom: 1.3rem;
 }
 
 .portfolio_item:hover{
@@ -17,7 +17,9 @@
     background: transparent;
 }
 
-.portfolio_item-image {
+.portfolio_item-image img {
+    width: 100% !important;
+    height: 20rem !important;
     border-radius: 1.5rem;
     overflow: hidden;
 }
@@ -26,10 +28,18 @@
     margin: 1.2rem 0 2rem;
 }
 
+section > h2 {
+    margin-bottom: -1.5rem !important;
+}
+
 .portfolio_item-cta {
     display: flex;
     gap: 1rem;
     margin-bottom: 1rem;
+}
+
+.swiper-pagination-clickable .swiper-pagination-bullet {
+    background: var(--color-primary);
 }
 
 /*================ MEDIA QUERIES (MEDIUM DEVICES) ================*/

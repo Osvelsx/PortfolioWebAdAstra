@@ -25,7 +25,7 @@ export const App = () => {
   )
 }
 
-/*var newWnd = window.open(); Esto es para cerrar llos _blank creados
+/*var newWnd = window.open(); Esto es para cerrar los _blank creados
 console.log("🚀 ~ file: App.jsx ~ line 29 ~ newWnd", newWnd)
 newWnd.opener = null;*/
 

@@ -23,7 +23,7 @@ export const About = () => {
             <article className="about_card">
               <h5>Experience</h5>
               <div className='about_icon'><RiMedalLine/></div>
-              <small>+1 Year Working</small>
+              <small>+4 Year Working</small>
             </article>
 
             <article className="about_card">
@@ -35,9 +35,11 @@ export const About = () => {
             <article className="about_card">
               <h5>Projects</h5>
               <div className='about_icon'><BsTrophy/></div>
-              <small>+3 Completed</small>
+              <small>+15 Completed</small>
             </article>
           </div>
+          
+          <a href="https://www.digtrad.com/" target="_blank" rel="noreferrer" className='btn btn-primary btnab'>Digital Trusted Advisor Web Page</a>
 
           <p>
             I love being in places where people like to work as a team, I'm all ears if someone give me their best advice that will help me to grow up professionally along with my soft skills, I also like to understand what the needs of our clients are so I take projects in a personal level.

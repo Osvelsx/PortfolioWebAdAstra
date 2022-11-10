@@ -71,6 +71,10 @@ section {
     margin: 1rem 0 1rem;
 }
 
+.btnab {
+    margin-top: 2rem !important;
+}
+
 /*================ MEDIA QUERIES (MEDIUM DEVICES) ================*/
 @media screen and (max-width: 1024px){
     .about_container{

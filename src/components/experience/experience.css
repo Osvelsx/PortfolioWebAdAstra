@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
+    padding-top: 4rem;
 }
 
 h2 {
@@ -80,7 +81,7 @@ h2 {
     .experience_container > div {
         width: 100% !important;
         margin: 0rem;
-        padding: 1rem;
+        padding: 1rem;  
     }
 
     .experience_content {

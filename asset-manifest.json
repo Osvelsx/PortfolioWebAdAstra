@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/PortfolioWebAdAstra/static/css/main.9054b272.css",
-    "main.js": "/PortfolioWebAdAstra/static/js/main.60cb2448.js",
+    "main.css": "/PortfolioWebAdAstra/static/css/main.d0b64050.css",
+    "main.js": "/PortfolioWebAdAstra/static/js/main.edaee1db.js",
     "static/media/tacbody.JPG": "/PortfolioWebAdAstra/static/media/tacbody.d18b4f5b90ccd77a4fba.JPG",
     "static/media/pro10.jpg": "/PortfolioWebAdAstra/static/media/pro10.499f769c260fd2391731.jpg",
-    "static/media/Resume_Osvel.pdf": "/PortfolioWebAdAstra/static/media/Resume_Osvel.ccf7f4aa622abb33c24e.pdf",
+    "static/media/Resume_Osvel.pdf": "/PortfolioWebAdAstra/static/media/Resume_Osvel.e59659c6dee362aa6e93.pdf",
+    "static/media/tribalsite.png": "/PortfolioWebAdAstra/static/media/tribalsite.d32859a97e084624d53a.png",
     "static/media/SanFran_Me.jpeg": "/PortfolioWebAdAstra/static/media/SanFran_Me.1c8b730d6029efe51676.jpeg",
     "static/media/pro1.jpg": "/PortfolioWebAdAstra/static/media/pro1.dccfce679f28f3ce03ca.jpg",
     "static/media/FotoOsvelPerfilProfesional1-removebg.png": "/PortfolioWebAdAstra/static/media/FotoOsvelPerfilProfesional1-removebg.1f4c03a22057f470d54c.png",
+    "static/media/avocadosite.png": "/PortfolioWebAdAstra/static/media/avocadosite.7d00f4156466b6baadc2.png",
+    "static/media/holosite.png": "/PortfolioWebAdAstra/static/media/holosite.1c9a3f29879fadb7d2e9.png",
     "static/media/dot-pattern12-removebg.png": "/PortfolioWebAdAstra/static/media/dot-pattern12-removebg.7c41cf15ae2e806e4e59.png",
     "index.html": "/PortfolioWebAdAstra/index.html",
-    "main.9054b272.css.map": "/PortfolioWebAdAstra/static/css/main.9054b272.css.map",
-    "main.60cb2448.js.map": "/PortfolioWebAdAstra/static/js/main.60cb2448.js.map"
+    "main.d0b64050.css.map": "/PortfolioWebAdAstra/static/css/main.d0b64050.css.map",
+    "main.edaee1db.js.map": "/PortfolioWebAdAstra/static/js/main.edaee1db.js.map"
   },
   "entrypoints": [
-    "static/css/main.9054b272.css",
-    "static/js/main.60cb2448.js"
+    "static/css/main.d0b64050.css",
+    "static/js/main.edaee1db.js"
   ]
 }

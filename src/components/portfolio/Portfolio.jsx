@@ -6,6 +6,7 @@ import rhand from '../../assets/FotosParaPortafolioWeb/Proyectos/pro1.jpg'
 import avocadosite from '../../assets/FotosParaPortafolioWeb/Proyectos/avocadosite.png'
 import holo from '../../assets/FotosParaPortafolioWeb/Proyectos/holosite.png'
 import tribal from '../../assets/FotosParaPortafolioWeb/Proyectos/tribalsite.png'
+import rockpprscr from '../../assets/FotosParaPortafolioWeb/Proyectos/Rock-Paper-Scissor.png'
 
 // import Swiper core and required modules
 // Link of Swiper https://swiperjs.com/ 
@@ -60,6 +61,13 @@ const data = [
     title: 'Tac of a Client',
     github: 'https://github.com/Osvelsx',
     demo: 'https://www.youtube.com/watch?v=q1IZU95PF8U&t=257s'
+  },
+  {
+    id: 7,
+    image: rockpprscr,
+    title: 'Rock - Paper - Scissor',
+    github: 'https://github.com/Osvelsx/Rock-Paper-Scissor',
+    demo: 'https://github.com/Osvelsx/Rock-Paper-Scissor'
   },
 ]
 

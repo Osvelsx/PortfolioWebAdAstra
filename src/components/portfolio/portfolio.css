@@ -9,7 +9,7 @@
     border-radius: 2rem;
     border: 1px solid transparent;
     transition:var(--transition);
-    margin-bottom: 1.3rem;
+    margin-bottom: 1.8rem;
 }
 
 .portfolio_item:hover{
@@ -29,7 +29,7 @@
 }
 
 section > h2 {
-    margin-bottom: -1.5rem !important;
+    margin-bottom: -1.9rem !important;
 }
 
 .portfolio_item-cta {

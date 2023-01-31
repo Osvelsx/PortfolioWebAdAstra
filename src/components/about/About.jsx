@@ -23,7 +23,7 @@ export const About = () => {
             <article className="about_card">
               <h5>Experience</h5>
               <div className='about_icon'><RiMedalLine/></div>
-              <small>+4 Year Working</small>
+              <small>+3 Years Working</small>
             </article>
 
             <article className="about_card">

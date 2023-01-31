@@ -7,6 +7,7 @@ import avocadosite from '../../assets/FotosParaPortafolioWeb/Proyectos/avocadosi
 import holo from '../../assets/FotosParaPortafolioWeb/Proyectos/holosite.png'
 import tribal from '../../assets/FotosParaPortafolioWeb/Proyectos/tribalsite.png'
 import rockpprscr from '../../assets/FotosParaPortafolioWeb/Proyectos/Rock-Paper-Scissor.png'
+import atomicchat from '../../assets/FotosParaPortafolioWeb/Proyectos/atomicchat.png'
 
 // import Swiper core and required modules
 // Link of Swiper https://swiperjs.com/ 
@@ -43,27 +44,34 @@ const data = [
   },
   {
     id: 4,
+    image: atomicchat,
+    title: 'Atomic Chat',
+    github: 'https://github.com/Osvelsx/Atomic-Chat',
+    demo: 'https://atomic-chat-227a2.web.app/'
+  },
+  {
+    id: 5,
     image: jetdesign,
     title: 'Jet Engine',
     github: 'https://github.com/Osvelsx',
     demo: 'https://www.youtube.com/watch?v=xu4YkFpX37I&t=51s'
   },
   {
-    id: 5,
+    id: 6,
     image: rhand,
     title: 'Robotic Hand',
     github: 'https://github.com/Osvelsx',
     demo: 'https://www.youtube.com/channel/UCdHArCqfandw-HQP8QaWmGA/featured'
   },
   {
-    id: 6,
+    id: 7,
     image: tacbody,
     title: 'Tac of a Client',
     github: 'https://github.com/Osvelsx',
     demo: 'https://www.youtube.com/watch?v=q1IZU95PF8U&t=257s'
   },
   {
-    id: 7,
+    id: 8,
     image: rockpprscr,
     title: 'Rock - Paper - Scissor',
     github: 'https://github.com/Osvelsx/Rock-Paper-Scissor',

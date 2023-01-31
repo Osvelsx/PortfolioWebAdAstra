@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortfolioWebAdAstra/static/css/main.04c11720.css",
-    "main.js": "/PortfolioWebAdAstra/static/js/main.d49ed222.js",
+    "main.js": "/PortfolioWebAdAstra/static/js/main.33fde511.js",
     "static/media/tacbody.JPG": "/PortfolioWebAdAstra/static/media/tacbody.d18b4f5b90ccd77a4fba.JPG",
     "static/media/pro10.jpg": "/PortfolioWebAdAstra/static/media/pro10.499f769c260fd2391731.jpg",
     "static/media/Resume_Osvel.pdf": "/PortfolioWebAdAstra/static/media/Resume_Osvel.23972a4503aad0154238.pdf",
@@ -12,13 +12,14 @@
     "static/media/avocadosite.png": "/PortfolioWebAdAstra/static/media/avocadosite.7d00f4156466b6baadc2.png",
     "static/media/holosite.png": "/PortfolioWebAdAstra/static/media/holosite.1c9a3f29879fadb7d2e9.png",
     "static/media/Rock-Paper-Scissor.png": "/PortfolioWebAdAstra/static/media/Rock-Paper-Scissor.1cc6cc01ee96a990e672.png",
+    "static/media/atomicchat.png": "/PortfolioWebAdAstra/static/media/atomicchat.7dbcf0d2f161f4b6bd33.png",
     "static/media/dot-pattern12-removebg.png": "/PortfolioWebAdAstra/static/media/dot-pattern12-removebg.7c41cf15ae2e806e4e59.png",
     "index.html": "/PortfolioWebAdAstra/index.html",
     "main.04c11720.css.map": "/PortfolioWebAdAstra/static/css/main.04c11720.css.map",
-    "main.d49ed222.js.map": "/PortfolioWebAdAstra/static/js/main.d49ed222.js.map"
+    "main.33fde511.js.map": "/PortfolioWebAdAstra/static/js/main.33fde511.js.map"
   },
   "entrypoints": [
     "static/css/main.04c11720.css",
-    "static/js/main.d49ed222.js"
+    "static/js/main.33fde511.js"
   ]
 }

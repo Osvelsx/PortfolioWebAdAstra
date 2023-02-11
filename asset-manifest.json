@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/PortfolioWebAdAstra/static/css/main.04c11720.css",
-    "main.js": "/PortfolioWebAdAstra/static/js/main.33fde511.js",
+    "main.js": "/PortfolioWebAdAstra/static/js/main.6289233c.js",
     "static/media/tacbody.JPG": "/PortfolioWebAdAstra/static/media/tacbody.d18b4f5b90ccd77a4fba.JPG",
     "static/media/pro10.jpg": "/PortfolioWebAdAstra/static/media/pro10.499f769c260fd2391731.jpg",
-    "static/media/Resume_Osvel.pdf": "/PortfolioWebAdAstra/static/media/Resume_Osvel.23972a4503aad0154238.pdf",
+    "static/media/Resume_Osvel.pdf": "/PortfolioWebAdAstra/static/media/Resume_Osvel.7e603f2a9c02105487fa.pdf",
     "static/media/tribalsite.png": "/PortfolioWebAdAstra/static/media/tribalsite.d32859a97e084624d53a.png",
     "static/media/SanFran_Me.jpeg": "/PortfolioWebAdAstra/static/media/SanFran_Me.1c8b730d6029efe51676.jpeg",
     "static/media/pro1.jpg": "/PortfolioWebAdAstra/static/media/pro1.dccfce679f28f3ce03ca.jpg",
@@ -16,10 +16,10 @@
     "static/media/dot-pattern12-removebg.png": "/PortfolioWebAdAstra/static/media/dot-pattern12-removebg.7c41cf15ae2e806e4e59.png",
     "index.html": "/PortfolioWebAdAstra/index.html",
     "main.04c11720.css.map": "/PortfolioWebAdAstra/static/css/main.04c11720.css.map",
-    "main.33fde511.js.map": "/PortfolioWebAdAstra/static/js/main.33fde511.js.map"
+    "main.6289233c.js.map": "/PortfolioWebAdAstra/static/js/main.6289233c.js.map"
   },
   "entrypoints": [
     "static/css/main.04c11720.css",
-    "static/js/main.33fde511.js"
+    "static/js/main.6289233c.js"
   ]
 }

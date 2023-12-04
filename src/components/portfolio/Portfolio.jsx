@@ -8,6 +8,8 @@ import holo from '../../assets/FotosParaPortafolioWeb/Proyectos/holosite.png'
 import tribal from '../../assets/FotosParaPortafolioWeb/Proyectos/tribalsite.png'
 import rockpprscr from '../../assets/FotosParaPortafolioWeb/Proyectos/Rock-Paper-Scissor.png'
 import atomicchat from '../../assets/FotosParaPortafolioWeb/Proyectos/atomicchat.png'
+import tg from '../../assets/FotosParaPortafolioWeb/Proyectos/topgroups.png'
+import eps from '../../assets/FotosParaPortafolioWeb/Proyectos/eps.png'
 
 // import Swiper core and required modules
 // Link of Swiper https://swiperjs.com/ 
@@ -21,6 +23,20 @@ import 'swiper/css/pagination';
 
 //DONT USE THE IMAGES IN PRODUCTION
 const data = [
+  {
+    id: 1,
+    image: tg,
+    title: 'Top Groups',
+    github: 'https://github.com/Osvelsx',
+    demo: 'https://top-groups-react-git-sprint4-estradata.vercel.app/apps/redGrupos'
+  },
+  {
+    id: 1,
+    image: eps,
+    title: 'Exact Point Survey',
+    github: 'https://github.com/Osvelsx',
+    demo: 'https://app.exactpointsurvey.mx/'
+  },
   {
     id: 1,
     image: avocadosite,

@@ -9,7 +9,7 @@ import {useState} from 'react'
 import {VscFileSubmodule} from 'react-icons/vsc'
 
 export const Nav = () => {
-  const [activeNav, setActiveNav] = useState('#')
+  const [activeNav, setActiveNav] = useState('home')
   return (
     <nav>
       <a href="#home" onClick={() => setActiveNav('home')} className= {activeNav === 'home' ? 'active' : ''}><IoHome/></a>

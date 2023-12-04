@@ -44,23 +44,19 @@ export const Services = () => {
           <ul className="service_list">
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Customized Websites</p>
+              <p>Data Migration</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Web Applications</p>
+              <p>Code Optimization</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Website Maintenance</p>
+              <p>Databases Management</p>
             </li>
             <li>
               <BiCheck className='service_list-icon'/>
-              <p>Managing Databases</p>
-            </li>
-            <li>
-              <BiCheck className='service_list-icon'/>
-              <p>Managing Servers</p>
+              <p>API design and integration</p>
             </li>
           </ul>
         </article>

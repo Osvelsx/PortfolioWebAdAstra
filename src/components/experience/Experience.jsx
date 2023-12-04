@@ -45,7 +45,7 @@ export const Experience = () => {
               <BsPatchCheckFill className='experience_details-icon'/>
               <div>
               <h4>React</h4>
-              <small className='text-light'>Basic</small>
+              <small className='text-light'>Intermediate</small>
               </div>
             </article>
           </div>
@@ -73,7 +73,7 @@ export const Experience = () => {
               <BsPatchCheckFill className='experience_details-icon'/>
               <div>
               <h4>PHP</h4>
-              <small className='text-light'>Basic</small>
+              <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className="experience_details">

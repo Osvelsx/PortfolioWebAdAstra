@@ -1,25 +1,27 @@
 {
   "files": {
     "main.css": "/PortfolioWebAdAstra/static/css/main.04c11720.css",
-    "main.js": "/PortfolioWebAdAstra/static/js/main.6289233c.js",
+    "main.js": "/PortfolioWebAdAstra/static/js/main.c3ef0303.js",
     "static/media/tacbody.JPG": "/PortfolioWebAdAstra/static/media/tacbody.d18b4f5b90ccd77a4fba.JPG",
     "static/media/pro10.jpg": "/PortfolioWebAdAstra/static/media/pro10.499f769c260fd2391731.jpg",
-    "static/media/Resume_Osvel.pdf": "/PortfolioWebAdAstra/static/media/Resume_Osvel.7e603f2a9c02105487fa.pdf",
+    "static/media/Resume_Osvel.pdf": "/PortfolioWebAdAstra/static/media/Resume_Osvel.2920bebc26e79342a7fe.pdf",
+    "static/media/eps.png": "/PortfolioWebAdAstra/static/media/eps.be493894950baa6ddb0c.png",
     "static/media/tribalsite.png": "/PortfolioWebAdAstra/static/media/tribalsite.d32859a97e084624d53a.png",
     "static/media/SanFran_Me.jpeg": "/PortfolioWebAdAstra/static/media/SanFran_Me.1c8b730d6029efe51676.jpeg",
     "static/media/pro1.jpg": "/PortfolioWebAdAstra/static/media/pro1.dccfce679f28f3ce03ca.jpg",
     "static/media/FotoOsvelPerfilProfesional1-removebg.png": "/PortfolioWebAdAstra/static/media/FotoOsvelPerfilProfesional1-removebg.1f4c03a22057f470d54c.png",
     "static/media/avocadosite.png": "/PortfolioWebAdAstra/static/media/avocadosite.7d00f4156466b6baadc2.png",
     "static/media/holosite.png": "/PortfolioWebAdAstra/static/media/holosite.1c9a3f29879fadb7d2e9.png",
+    "static/media/topgroups.png": "/PortfolioWebAdAstra/static/media/topgroups.598c3410a3bd695a8f6a.png",
     "static/media/Rock-Paper-Scissor.png": "/PortfolioWebAdAstra/static/media/Rock-Paper-Scissor.1cc6cc01ee96a990e672.png",
     "static/media/atomicchat.png": "/PortfolioWebAdAstra/static/media/atomicchat.7dbcf0d2f161f4b6bd33.png",
     "static/media/dot-pattern12-removebg.png": "/PortfolioWebAdAstra/static/media/dot-pattern12-removebg.7c41cf15ae2e806e4e59.png",
     "index.html": "/PortfolioWebAdAstra/index.html",
     "main.04c11720.css.map": "/PortfolioWebAdAstra/static/css/main.04c11720.css.map",
-    "main.6289233c.js.map": "/PortfolioWebAdAstra/static/js/main.6289233c.js.map"
+    "main.c3ef0303.js.map": "/PortfolioWebAdAstra/static/js/main.c3ef0303.js.map"
   },
   "entrypoints": [
     "static/css/main.04c11720.css",
-    "static/js/main.6289233c.js"
+    "static/js/main.c3ef0303.js"
   ]
 }
